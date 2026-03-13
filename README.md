@@ -1,6 +1,6 @@
 # Projetos Java
 
-Este pacote contém **2 projetos simples em Java**, organizados para facilitar a postagem em repositório ou entrega de atividade.
+Este pacote contém **2 projetos simples em Java**.
 
 ## Projetos incluídos
 
